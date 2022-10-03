@@ -1,0 +1,3 @@
+[submodule "beej-plus-plus"]
+	path = beej-plus-plus
+	url = https://github.com/rayburgemeestre/beej-plus-plus.git
